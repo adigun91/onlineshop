@@ -7,7 +7,6 @@ const NavBar = () => {
                 <h2>OnlineShop</h2>
             </Link>
             <Link to="/cart">
-            
                 <div className="nav-bag">
                     <svg 
                         xmlns="http://www.w3.org/2000/svg" 
